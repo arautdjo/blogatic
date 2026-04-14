@@ -1,0 +1,5 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,58298,e=>{"use strict";var t=e.i(43476),n=e.i(71645);function r({content:e,contentTitle:n,pageTitle:l}){return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)("title",{children:l}),(0,t.jsx)("div",{className:`
+                    min-h-[320px] bg-slate-800 text-slate-100
+                    mb-16 p-8 rounded-3xl flex items-center justify-center
+                    text-center
+                `,children:(0,t.jsxs)("div",{className:"flex flex-col gap-3",children:[(0,t.jsx)("h1",{className:"text-7xl font-extrabold",children:n}),(0,t.jsx)("div",{children:e})]})})]})}e.s(["default",0,function({error:e}){return(0,n.useEffect)(()=>{console.log(e)},[e]),(0,t.jsx)(r,{content:"Ocorreu um erro que ainda nao pode ser tratado, tente novamente mais tarde",contentTitle:"501",pageTitle:"Internal Server Error"})}],58298)}]);
