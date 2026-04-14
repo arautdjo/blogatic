@@ -1,3 +1,3 @@
-:HL["/blogatic/_next/static/chunks/0-3~s6ao_3jge.css","style"]
+:HL["/_next/static/chunks/0-3~s6ao_3jge.css","style"]
 :HL["https://raw.githubusercontent.com/luizomf/clean-architecture-api-boilerplate/master/docs/clean-architecture.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"post","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"this-will-create-the-dillinger-image-and-pull-in-the-necessary-dependencies.-atbvp6","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"m5FW7lWmhvU1JYBZAxbm8"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"post","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"this-will-create-the-dillinger-image-and-pull-in-the-necessary-dependencies.-atbvp6","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"RfM9036FDha6G-OtVdJ4o"}
